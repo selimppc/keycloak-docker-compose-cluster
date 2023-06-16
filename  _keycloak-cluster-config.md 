@@ -1,0 +1,8 @@
+source:
+    https://gist.github.com/dasniko/059dc2a895f585f6f74edaa042a2da48
+
+
+command:
+
+    RUN:
+    $ docker compose -f docker-compose-cluster.yml up
